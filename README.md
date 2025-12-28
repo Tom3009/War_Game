@@ -5,14 +5,11 @@ Project Overview
 This project is a Java-based implementation of the classic War card game, featuring a graphical user interface (GUI) that allows a player to compete against the computer (or another player). The application focuses on clean object-oriented design, interactive gameplay, and persistent game state management, enabling users to save and resume games seamlessly.
 
 
-Backend Programming Final Exam …
 
 Game Description
 
 War is a simple two-player card game played with a standard 52-card deck. The deck is shuffled and divided evenly between the players. In each round, both players reveal the top card of their deck; the player with the higher card wins the round and collects all played cards. Aces are treated as the highest value, and suits are ignored. When two cards of equal value are revealed, a “war” occurs, during which additional face-down and face-up cards are played until a winner is determined. The game continues until one player collects all cards.
 
-
-Backend Programming Final Exam …
 
 Solution Approach
 
@@ -31,7 +28,7 @@ Key Features
 The project includes full game logic for standard War rules, support for repeated wars, automatic win detection, and proper handling of edge cases such as players running out of cards during a war. All variables are kept private, static methods are avoided in the game logic, and the codebase is fully UTF-8 encoded. Clear console and GUI feedback is provided to enhance user experience.
 
 
-Backend Programming Final Exam …
+
 
 Technologies and Concepts
 
